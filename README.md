@@ -12,7 +12,7 @@ Some of my skill sets are listed in my [profile on Linkedin](https://linkedin.co
 
 Out of 20 million active Github accounts, I am ONE out of a million active Github accounts (meaning, 5%) who has repositories in the Arctic Code Vault.
 
-I have experience in blockchain, systems administration, software development, systems integration, technical support, information security & auditing, and managing IP (Intellectual Property) at a strategic level. Previously, I had a lot of experience in setting up, installing, configuring and upgrading various operating systems (such as Windows, Linux, Mac OS and Solaris) and various databases (Oracle, InterBase, SQL) so it should not come as a surprise that I hold these certifications: 
+I have experience in blockchain, systems administration, software development, systems integration, technical support, quality assurance, information security & auditing, and managing IP (Intellectual Property) at a strategic level. Previously, I had a lot of experience in setting up, installing, configuring and upgrading various operating systems (such as Windows, Linux, Mac OS and Solaris) and various databases (Oracle, InterBase, SQL) so it should not come as a surprise that I hold these certifications: 
 
 * ArcSight Certified Systems Analyst (ACSA), 
 * ArcSight Certified Integrator/Administrator (ACIA), 
@@ -26,6 +26,6 @@ I have experience in blockchain, systems administration, software development, s
 
 Frequently, I have been approached to provide solutions, software and services on a freelance, consulting and contractual basis.
 
-Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, .NET, ArcSight, LogRhythm, AWS, Packer, Terraform and Vault.
+Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, Python, PHP, Solidity, Truffle, Nodejs, React, .NET, ArcSight, LogRhythm, AWS, Tencent, Packer, Terraform, Vault, etc.
 
 If you're looking for someone to help manage your staff, write code, consider having a discussion with me, by [filing an issue here](https://github.com/chuacw/chuacw/issues), [sending me a message on LinkedIn](https://linkedin.com/in/cwchua), or [sending me a message on Telegram](https://t.me/cwborlembt).
