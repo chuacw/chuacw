@@ -12,7 +12,7 @@ Some of my skill sets are listed in my [profile on Linkedin](https://linkedin.co
 
 Out of 20 million active Github accounts, I am ONE out of a million active Github accounts (meaning, 5%) who has repositories in the Arctic Code Vault.
 
-I have experience in blockchain, systems administration, software development, systems integration, technical support, quality assurance, information security & auditing, and managing IP (Intellectual Property) at a strategic level. Previously, I had a lot of experience in setting up, installing, configuring and upgrading various operating systems (such as Windows, Linux, Mac OS and Solaris) and various databases (Oracle, InterBase, SQL) so it should not come as a surprise that I hold these certifications: 
+I have experience in blockchain (including IPFS, NFT), systems administration, software development, systems integration, technical support, quality assurance, information security & auditing, and managing IP (Intellectual Property) at a strategic level. Previously, I had a lot of experience in setting up, installing, configuring and upgrading various operating systems (such as Windows, Linux, Mac OS and Solaris) and various databases (Oracle, InterBase, SQL) so it should not come as a surprise that I hold these certifications: 
 
 * ArcSight Certified Systems Analyst (ACSA), 
 * ArcSight Certified Integrator/Administrator (ACIA), 
