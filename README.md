@@ -24,6 +24,8 @@ I have experience in blockchain (including IPFS, NFT), systems administration, s
 * Microsoft Certified Systems Engineer (MCSE) and 
 * Qualified Information Security Professional (QISP). 
 
+I'm also an Embarcadero MVP.
+
 Frequently, I have been approached to provide solutions, software and services on a freelance, consulting and contractual basis.
 
 Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, Python, PHP, Solidity, Truffle, TypeScript, Nodejs, React, .NET, ArcSight, LogRhythm, AWS, Tencent, Packer, Terraform, Vault, etc.
