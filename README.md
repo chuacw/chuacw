@@ -28,6 +28,6 @@ I'm also an Embarcadero MVP.
 
 Frequently, I have been approached to provide solutions, software and services on a freelance, consulting and contractual basis.
 
-Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, Python, PHP, Solidity, Truffle, TypeScript, Nodejs, React, .NET, ArcSight, LogRhythm, AWS, Tencent, Packer, Terraform, Vault, etc.
+Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, Move, Python, PHP, Solidity, Truffle, TypeScript, Nodejs, React, .NET, ArcSight, LogRhythm, AWS, Tencent, Packer, Terraform, Vault, etc.
 
 If you're looking for someone to help manage your staff, write code, consider having a discussion with me, by [filing an issue here](https://github.com/chuacw/chuacw/issues), [sending me a message on LinkedIn](https://linkedin.com/in/cwchua), or [sending me a message on Telegram](https://t.me/cwborlembt).
