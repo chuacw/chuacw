@@ -31,3 +31,5 @@ Frequently, I have been approached to provide solutions, software and services o
 Today, I use many technologies, platforms and languages including Android, Linux, macOS, Solaris, Windows, C#, Delphi, Go, Java, Move, Python, PHP, Solidity, Truffle, TypeScript, Nodejs, React, .NET, ArcSight, LogRhythm, AWS, Tencent, Packer, Terraform, Vault, etc.
 
 If you're looking for someone to help manage your staff, write code, consider having a discussion with me, by [filing an issue here](https://github.com/chuacw/chuacw/issues), [sending me a message on LinkedIn](https://linkedin.com/in/cwchua), or [sending me a message on Telegram](https://t.me/cwborlembt).
+
+When reaching out to me, please introduce yourself, before starting to talk about issues you want to discuss. It may surprise some of you, but there are people who reach out to me and start talking about issues, as if I know them.
