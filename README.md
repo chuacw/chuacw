@@ -1,6 +1,7 @@
 # Chee-Wee Chua (chewy)
 
- Welcome to my Github Profile!
+## Introduction 
+Welcome to my Github Profile!
  
  My name is Chee-Wee, and I'm all sorts of things, including:
 
@@ -24,7 +25,7 @@ I have experience in blockchain (including IPFS, NFT), systems administration, s
 * Microsoft Certified Systems Engineer (MCSE) and 
 * Qualified Information Security Professional (QISP). 
 
-I'm also an Embarcadero MVP.
+I've developed some open-source tools for use in Delphi, TypeScript and Node.js, here on Github, and elsewhere.
 
 Frequently, I have been approached to provide solutions, software and services on a freelance, consulting and contractual basis.
 
@@ -33,3 +34,6 @@ Today, I use many technologies, platforms and languages including Android, Linux
 If you're looking for someone to help manage your staff, write code, consider having a discussion with me, by [filing an issue here](https://github.com/chuacw/chuacw/issues), [sending me a message on LinkedIn](https://linkedin.com/in/cwchua), or [sending me a message on Telegram](https://t.me/cwborlembt).
 
 When reaching out to me, please introduce yourself, before starting to talk about issues you want to discuss. It may surprise some of you, but there are people who reach out to me and start talking about issues, as if I know them.
+
+## Portfolio of Projects
+[Chee-Wee's Portfolio of Projects](https://github.com/chuacw/portfolio)
