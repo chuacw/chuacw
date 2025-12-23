@@ -1,9 +1,9 @@
-# Chee-Wee Chua (chewy)
+# CheeWee Chua (chewy)
 
 ## Introduction 
 Welcome to my Github Profile!
  
- My name is Chee-Wee, and I'm all sorts of things, including:
+ My name is CheeWee, and I'm all sorts of things, including:
 
 - hacker
 - software developer / engineer
@@ -36,4 +36,4 @@ If you're looking for someone to help manage your staff, write code, consider ha
 When reaching out to me, please introduce yourself, before starting to talk about issues you want to discuss. It may surprise some of you, but there are people who reach out to me and start talking about issues, as if I know them.
 
 ## Portfolio of Projects
-[Chee-Wee's Portfolio of Projects](https://github.com/chuacw/portfolio)
+[CheeWee's Portfolio of Projects](https://github.com/chuacw/portfolio)
